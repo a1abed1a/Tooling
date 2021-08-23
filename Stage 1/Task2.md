@@ -22,7 +22,7 @@ And for the tools :
   \
   PyCharm is a great tool with many features that can facilitate development. Almost all the functions I use are accessible in VS Code and the only big feature that is not related to remote debugging is VS Code.  
   \
-  This means that almost all the capabilities of PyCharm with much better performance and pricing (of course) than PyCharm are available in VS Code. In the industry, PyCharm is used, but my job in Python will be VS Code.  
+  This means that almost all the capabilities of PyCharm with much better performance and pricing (of course) than PyCharm are available in VS Code. In the industry, PyCharm is used, but my job in web development will be VS Code.  
   ---
 + Operating System :
   + Linux
