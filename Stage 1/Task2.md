@@ -85,3 +85,7 @@ Here are some of the reasons for choosing the tools we chose to develop our app 
   \
   Github gives insight into the peers and commits behind each source and visualizes each contributor and their commits across all cloned repositories. These analytics are especially powerful when working in teams.
 ---
+## (3)
+**What is the relationship between the tools and the project?**  
+I mentioned it a buff, like Visual Studio Code provides a fast and easy to use source code editor this is for the IDE, and It's great for software creators, whether they are hobbyists, students, programmers, or professionals and this is for the Operating System, Projects on GitHub can be made public, and any piece of code that is published is freely available to everyone and this is for  the Version-control platform.
+As I said, the relationship between the tools and the project are in the second part of this page (2), and the compartion is in the firs part (1).
