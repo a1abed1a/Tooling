@@ -33,8 +33,31 @@ So like I said, this is our first job as a team, and we had some problems splitt
 + Database design.\
 We use local storage as a database, the system will save the cart in it and pull it out for further use.
 + Wireframe.\
+About the wireframe this is not the final look of the website, 
+of course will change the look of it and have a new ideas to add:\
+**Home page**  
+![home](/Images/home.png)  
+On the homepage, it will view what the shop have like product, their location, and what they serve.  
+**Menu page**  
+![home](/Images/menu.png)  
+On the menu page, it will view all the products that the shop have, and the can add what they need in a cart, and view the total price in the page.  
+**Cart page**  
+![home](/Images/cart.png)  
+On the cart page, all the products added by the user in the cart are displayed, and they can increase their quantity, or remove them from the cart list, and the total amount of each product will be added to the final total and shipping fees, and to order the user must fill out the form.
+**Host an event page**  
+![home](/Images/host_an_event.png)  
+On the hosting an event page, it will display some images of an event and then some text to tell what store of the event is, and to book the user must fill out the form.  
+**About us page**  
+![home](/Images/about_us.png)  
+On the about us page, it will display a summary about the shop, lastly the heroes that develop it.  
 
 + Activity Diagram.\
+ Here are the activity diagram that the user will take:  
+ ![Activity Diagram](/Images/Activity_Diagram.png)
 + Coding and implementation technique.\
+We use agile to manage our progress, so what is an agile?\
+Agile is a project management and software development strategy that enables us to deliver value to our clients more quickly. The agile team saves a little work but is expensive. Continuously assessing requirements, plans, and outcomes so that teams have a natural way to adapt quickly.  
+We choose agile to be able to adapt quickly to market developments or consumer input. Small, frequent changes to schedule and shipping allow us to get feedback on each change at minimal cost.  
+In a common vision, we join in and then salute them as you know. Requirements for quality, usability and completeness are defined. Selecting Done then reveals how quickly we will be working. Although it can be intimidating at first, leaders are sure that this team feels more ownership and exceeds management expectations when they invest their faith in an agile team.
 + Testing technique.\
   The testing part is in Stage 3.
